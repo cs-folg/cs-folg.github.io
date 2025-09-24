@@ -8,7 +8,7 @@
 <hr>
 
 <figure>
-    <img width="25%" src="Portrait.jpg" alt="Professional Photoshoot">
+    <img width="25%" src="Professional_picture.jpg" alt="Professional Photoshoot">
 </figure>
 
 <h2>Education</h2>

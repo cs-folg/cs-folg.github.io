@@ -1,4 +1,5 @@
 # Caio Folger
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,13 +10,10 @@
 <style>
     img {
     float: right;
-    margin-left: 15px;
-    width: 200px;
-    height: 200px;  
     }
 
     * {
-        font-family: "Lucida Console", "Courier New", monospace;
+        font-family: Helvetica, sans-serif;
     }
 </style>
 
@@ -50,7 +48,8 @@
 <p>This is the paragraph</p>
 
 <h2>Projects</h2>
-<p>This is the paragraph</p>
+<!-- Links to Project pages -->
+<a href="Machine_Learning_Model.html">Machine learning model based off solar panel experiments</a>
 
 </body>
 </html>

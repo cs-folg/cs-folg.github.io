@@ -16,7 +16,7 @@
       font-family: Helvetica, sans-serif;
     }
 
-    head{
+    title{
       background-color: DarkSlateBlue;
     }
 
@@ -73,11 +73,18 @@
 </ul>
 
 <h2>Previous Job Experience</h2>
-<ul>
-  <li>Customer service and interpersonal communications</li>
-  <li>Adaptability and quick learning</li>
-  <li></li>
-</ul>
+<dl>
+  <dt>Research Assistant and Machine Learning Model Maker| FSEC | May 2025 - present</dt>
+  <dd>Built machine learning models to analyze large datasets and presented results in a weekly meeting.</dd>
+  <dt>Event Volunteer | Plasticon | July 27th, 2024</dt>
+  <dd>Used customer service skills to manage 100s of
+      incoming guests as well as give appropriate
+      convention passes.</dd>
+  <dt>Retail Worker | Columbia Sportswear | February 2024 - May 2024</dt>
+  <dd>Refined customer service and teamwork skills in various retail positions.</dd>
+  <dt>Food Service Worker | Steak N' Shake</dt>
+  <dd>Formed team-building and time-management skills while serving customers.</dd>
+</dl>
 
 </body>
 </html>

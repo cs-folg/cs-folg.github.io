@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Caio Folger</title>
+<title>IT and Cybersecurity Undergraduate</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,6 +26,8 @@
 </style>
 
 </head>
+
+<body>
 
 <h2>Biography</h2>
 

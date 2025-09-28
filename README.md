@@ -1,7 +1,5 @@
-# Caio Folger
 
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
 <title>IT and Cybersecurity Undergraduate</title>
 <meta charset="utf-8">
@@ -16,10 +14,6 @@
       font-family: Helvetica, sans-serif;
     }
 
-    title{
-      background-color: DarkSlateBlue;
-    }
-
     body{
       background-color: LightGray;
     }
@@ -29,6 +23,11 @@
 
 <body>
 
+<header style=background-color:DarkSlateBlue;>
+  <h1>Caio folger</h1>
+  <h2>IT and Cybersecurity Undergraduate</h2>
+  <p><strong>2022 - 2026</strong></p>
+</header>
 <h2>Biography</h2>
 
 <div>

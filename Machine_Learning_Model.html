@@ -1,35 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Java Project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
+  <meta charset="UTF-8">
+  <title>Java Project</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: Helvetica, sans-serif;
+      background-color: LightGray;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      background-color: DarkSlateBlue;
+      color: white;
+      padding: 1em;
+      text-align: center;
+      margin: 0;
+    }
+
+    p {
+      background-color: DarkSlateBlue;
+      color: white;
+      padding: 1em;
+      line-height: 1.6;
+    }
+
     img {
+      margin: 1em;
+      max-width: 25%;
+      height: auto;
+    }
+
+    .img-right {
       float: right;
     }
 
-    * {
-      font-family: Helvetica, sans-serif;
+    .img-left {
+      float: left;
     }
 
-    body{
-      background-color: LightGray;
+    h2 {
+      margin: 1.5em 1em 0.5em;
     }
-    </style>
+
+    ol {
+      margin: 0 2em 2em;
+    }
+
+    a {
+      display: inline-block;
+      margin: 2em;
+      padding: 0.5em 1em;
+      background-color: DarkSlateBlue;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    a:hover {
+      background-color: SlateBlue;
+    }
+  </style>
 </head>
+
 <body>
-    <h1 style = background-color:DarkSlateBlue;>Java Project</h1>
-    <p style = background-color:DarkSlateBlue;>Beginning in May 2025, I began my remote research assistant position at the Florida Solar Energy Center located on the University of Central Florida campus.
+
+    <h1>Java Project</h1>
+
+    <p>
+        Beginning in May 2025, I began my remote research assistant position at the Florida Solar Energy Center located on the University of Central Florida campus.
         MY primary job was to create a machine learning model that could predict the leakage and power consumption of modular solar panels.
         The model was trained on three datasets that contained millions of data points collected over the course of three separate, non-consecutive months. 
         I made these models using Python and Jupyter Notebooks, with weekly meetings on Microsoft teams where I presented my progress.
         The models were finalized and included in a research paper published by FSEC.
     </p>
+
     <div>
-    <img width="25%" src="Machine_Learning_Project_Results.jpg" alt="Results if machine learning models" style =float:right;>
-    <img width="25%" src="Testbed.jpg" alt="Solar Panel Layout" style =float:left;>
+        <img width="25%" src="Machine_Learning_Project_Results.jpg" alt="Results if machine learning models" style =float:right;>
+        <img width="25%" src="Testbed.jpg" alt="Solar Panel Layout" style =float:left;>
     </div>
+
     <h2>Skills Learned</h2>
     <ol>
         <li>Python</li>
@@ -38,6 +91,7 @@
         <li>Data Analysis</li>
         <li>Feature Analysis Using JMP</li>
     </ol>
+    
     <a href="index.html">Back to Home</a>
 </body>
 </html>
